@@ -1,3 +1,4 @@
 # Test-PA
 It's a repository just for test.
-이상훈 201612656
+name: 이상훈 
+std number: 201612656
